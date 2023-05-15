@@ -1,3 +1,5 @@
-
-
-theme: Slate
+title: ReSDK
+description: No description
+theme: jekyll-theme-slate
+google_analytics: UA-77340151-2
+exclude:
